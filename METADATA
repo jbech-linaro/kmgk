@@ -1,6 +1,6 @@
 name: "optee"
 description:
-    "Keymaster and Gatekeeper HIDL HAL for the OP-TEE trusted OS."
+    "Keymaster and Gatekeeper HIDL HAL and Trusted Applications for the OP-TEE trusted OS."
 
 third_party {
   url {
